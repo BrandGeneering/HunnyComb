@@ -1,0 +1,35 @@
+== README
+
+Welcome to the HunnyComb project. Millions of families with young children in the U.S. are spread across multiple households as a result of divorce, separation, or other mixed or extended family dynamics.  The HunnyComb project is an effort to web and mobile enabled tools to help these families stay better connected, communicate effectively, and to reduce the stress and confussion associated with coordinating parenting activities for minor children.
+
+The Spanning Calendar is the intiail project and is designed to address the problems associated with a planning parenting activities across multiple months.  Currently, public (free) options like Google Calendar limit effective views to a single month at a glance while many discussions involve evaluating other factors, such as:
+
+- Easy visualization of agreed daes among patents and associated cildren
+- Tracking overnight stays with different parents or guardian adults
+- Accounting for child time allocated across the parents
+- Building schedules according to legal parenting plans and tracking compliance
+- Support'Trading' days between parents to adjust for changes in plans
+- Facilitating effective, 'unarmed' conversations between coordinating parents
+
+
+* Ruby version 2.0.0
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
